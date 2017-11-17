@@ -11,8 +11,6 @@ A full-featured yet simple blog engine built on ASP.NET Core 2.0.
 Username: *demo*  
 Password: *demo*
 
-![Editor](art/editor.png)
-
 ## Features
 - Windows/Open Live Writer support
 - RSS and ATOM feeds
